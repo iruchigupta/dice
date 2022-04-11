@@ -39,22 +39,3 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
-.playbutton {
-  border: 1px solid black;
-  border-radius: 8px;
-  color: black;
-  background-color: #4ECCA3;
-  padding: 15px 50px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 30px;
-  font-family: 'calibri', serif;
-  font-weight: bold;
-  margin: 40px 43rem;
-  cursor: pointer;
-}
-.playbutton:hover {
-  background-color: black;
-  color: #4ECCA3;
-}
